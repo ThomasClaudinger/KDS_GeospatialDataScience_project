@@ -7,7 +7,7 @@ import time
 
 
 def main():
-    counter_start = 14003
+    counter_start = 22005
 
     url = "https://api.openrouteservice.org/v2/directions/cycling-regular/geojson"
     body = {"coordinates":[[10.781088,59.908227],[10.7544337247013,59.91218291295141]],"attributes":["percentage"],"extra_info":["surface","waycategory","waytype"],"preference":"recommended","roundabout_exits":"true","geometry":"true"}

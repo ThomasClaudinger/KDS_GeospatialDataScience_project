@@ -1,2 +1,4 @@
 venv/
 data/partial
+.DS_Store
+data/.DS_Store
