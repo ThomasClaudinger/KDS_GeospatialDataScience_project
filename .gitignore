@@ -2,3 +2,8 @@ venv/
 data/partial
 .DS_Store
 data/.DS_Store
+data/data_all_gpd_v3.cpg
+data/data_all_gpd_v3.dbf
+data/data_all_gpd_v3.prj
+data/data_all_gpd_v3.shp
+data/data_all_gpd_v3.shx
